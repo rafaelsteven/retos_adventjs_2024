@@ -37,7 +37,8 @@ createFrame(['a', 'bb', 'ccc', 'dddd'])
 
 **/
 
-function createFrame(names) {
+//4 estrellas
+function createFramev1(names) {
     // Code here
     const maxCaracteres = Math.max(...names.map(name => name.length));
     // Crear el marco top y bottom
@@ -53,7 +54,26 @@ function createFrame(names) {
     marco.push(marcoTB); 
     return marco.join("\n"); 
   }
-console.log(createFrame(['midu', 'madeval', 'educalvolpz']));
-console.log(createFrame(['midu']));
-console.log(createFrame(['a', 'bb', 'ccc']));
-console.log(createFrame(['a', 'bb', 'ccc', 'dddd']));
+
+//5 estrellas 
+
+function createFramev2(names) {
+  // Code here
+  const maxCaracteres = Math.max(...names.map(name => name.length));
+  // Crear el marco top y bottom
+  const marcoTB = "*".repeat(maxCaracteres + 4);
+  // Agrega el marco top
+  let marco = `${marcoTB}\n`;
+  // Agregar espacios en blanco
+  names.forEach(name => {
+    marco += `* ${name.padEnd(maxCaracteres, ' ')} *\n`
+  });
+  // Agrega el marco bottom
+  marco += `${marcoTB}`;
+  return marco;
+}
+
+console.log(createFramev2(['midu', 'madeval', 'educalvolpz']));
+console.log(createFramev2(['midu']));
+console.log(createFramev2(['a', 'bb', 'ccc']));
+console.log(createFramev2(['a', 'bb', 'ccc', 'dddd']));
