@@ -12,6 +12,8 @@ Mis soluciones para los [24 días de retos con JavaScript](https://adventjs.dev/
 | 2   | [Reto #2: 🖼️ Enmarcando nombres](https://adventjs.dev/es/challenges/2023/2) | [solución](./challenges/challenge_2/index.js) | <img src="./img/2.png" width="50" height="50" /> | ✨✨✨✨✨    |
 | 3   | [Reto #3: 🏗️ Organizando el inventario](https://adventjs.dev/es/challenges/2023/3) | [solución](./challenges/challenge_3/index.js) | <img src="./img/3.png" width="50" height="50" /> | ✨✨✨✨✨    |
 | 4   | [Reto #4: 🎄 Decorando el árbol de Navidad](https://adventjs.dev/es/challenges/2023/4) | [solución](./challenges/challenge_4/index.js) | <img src="./img/4.png" width="50" height="50" /> | ✨✨✨✨✨    |
+| 5   | [Reto #5: 👞 Emparejando botas](https://adventjs.dev/es/challenges/2023/5) | [solución](./challenges/challenge_5/index.js) | <img src="./img/5.png" width="50" height="50" /> | ✨✨✨✨✨    |
+
 
 ## Como ejecutar el código :running:
 
