@@ -19,7 +19,7 @@ Mis soluciones para los [24 días de retos con JavaScript](https://adventjs.dev/
 | 9   | [Reto #9: 🚂 El tren mágico](https://adventjs.dev/es/challenges/2024/9) | [solución](./challenges/challenge_9/index.js) | <img src="./img/9.png" width="50" height="50" /> | ✨✨✨✨✨    |
 | 10  | [Reto #10: 👩‍💻 El ensamblador élfico](https://adventjs.dev/es/challenges/2024/10) | [solución](./challenges/challenge_10/index.js) | <img src="./img/10.png" width="50" height="50" /> | ✨✨✨✨✨    |
 | 11  | [Reto #11: 🏴‍☠️ Nombres de archivos codificados](https://adventjs.dev/es/challenges/2024/11) | [solución](./challenges/challenge_11/index.js) | <img src="./img/11.png" width="50" height="50" /> | ✨✨✨✨✨    |
-
+| 12  | [Reto #12: 💵 ¿Cuánto cuesta el árbol?](https://adventjs.dev/es/challenges/2024/12) | [solución](./challenges/challenge_12/index.js) | <img src="./img/12.png" width="50" height="50" /> | ✨✨✨✨✨    |
 ## Como ejecutar el código :running:
 
 ```
