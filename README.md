@@ -23,6 +23,7 @@ Mis soluciones para los [24 días de retos con JavaScript](https://adventjs.dev/
 | 13  | [Reto #13: 🤖 ¿El robot está de vuelta?](https://adventjs.dev/es/challenges/2024/13) | [solución](./challenges/challenge_13/index.js) | <img src="./img/13.png" width="50" height="50" /> | ✨✨✨✨✨    |
 | 14  | [Reto #14: 🦌 Acomodando los renos](https://adventjs.dev/es/challenges/2024/14) | [solución](./challenges/challenge_14/index.js) | <img src="./img/14.png" width="50" height="50" /> | ✨✨✨✨✨    |
 | 15  | [Reto #15: ✏️ Dibujando tablas](https://adventjs.dev/es/challenges/2024/15) | [solución](./challenges/challenge_15/index.js) | <img src="./img/15.png" width="50" height="50" /> | ✨✨✨✨    |
+| 16  | [Reto #16: ❄️ Limpiando la nieve del camino](https://adventjs.dev/es/challenges/2024/16) | [solución](./challenges/challenge_16/index.js) | <img src="./img/16.png" width="50" height="50" /> | ✨✨✨✨✨   |
 
 ## Como ejecutar el código :running:
 
